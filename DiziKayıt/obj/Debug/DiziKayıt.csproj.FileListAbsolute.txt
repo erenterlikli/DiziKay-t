@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\bin\Debug\DiziKayıt.exe.config
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\bin\Debug\DiziKayıt.exe
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\bin\Debug\DiziKayıt.pdb
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.Form1.resources
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.Properties.Resources.resources
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.exe
+C:\Users\Eren\source\repos\DiziKayıt\DiziKayıt\obj\Debug\DiziKayıt.pdb
